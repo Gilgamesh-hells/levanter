@@ -1,7 +1,7 @@
 {
   "session1": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "^[.,!]",
+    "SESSION_ID": "levanter_21ceaf85cde25a46e8abb64a38079a859b",
+    "PREFIX": "∆",
     "SUDO": "0",
     "STICKER_PACKNAME": "❤️,LyFE",
     "ALWAYS_ONLINE": "false",
@@ -33,11 +33,11 @@
     "CMD_REACTION": "true"
   },
   "session2": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": "null"
+    "SESSION_ID": "levanter_21ceaf85cde25a46e8abb64a38079a859b",
+    "PREFIX": "∆"
   },
   "session3": {
-    "SESSION_ID": "levanter_sessionid",
-    "PREFIX": ".."
+    "SESSION_ID": "levanter_21ceaf85cde25a46e8abb64a38079a859b",
+    "PREFIX": "∆"
   }
 }
